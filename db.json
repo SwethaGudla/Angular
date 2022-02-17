@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "name": "swetha",
+      "class": "12",
+      "address": null,
+      "email": "swetha@gmail.com",
+      "city": "allagadda",
+      "password": "123456"
+    },
+    {
+      "id": 7,
+      "name": "praveenu",
+      "class": "10",
+      "address": "lsdas;olfhdfjvb",
+      "email": "pra@gmail.com",
+      "city": "sdkfljs",
+      "password": "1234"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
